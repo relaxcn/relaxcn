@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [xv6-labs-2022 Lab6 Multithreading 答案与解析](http://www.chens.life/posts/mit-xv6-lab6/)
-- [xv6-labs-2022 Lab5 Copy on-write 答案与解析](http://www.chens.life/posts/mit-xv6-lab5-cow/)
-- [vcpkg + cmake + vscode 配置教程](http://www.chens.life/posts/vcpkg-cmake-vscode/)
-- [xv6-labs-2022 Lab4 traps 答案与解析](http://www.chens.life/posts/mit-xv6-lab4/)
-- [如何将一个二进制值的指定位设置为指定的值](http://www.chens.life/posts/how-to-set-a-specified-bit-of-a-binary-value-to-a-specified-value/)
+- [xv6-labs-2022 Lab6 Multithreading 答案与解析](https://www.chens.life/posts/mit-xv6-lab6/)
+- [xv6-labs-2022 Lab5 Copy on-write 答案与解析](https://www.chens.life/posts/mit-xv6-lab5-cow/)
+- [vcpkg + cmake + vscode 配置教程](https://www.chens.life/posts/vcpkg-cmake-vscode/)
+- [xv6-labs-2022 Lab4 traps 答案与解析](https://www.chens.life/posts/mit-xv6-lab4/)
+- [如何将一个二进制值的指定位设置为指定的值](https://www.chens.life/posts/how-to-set-a-specified-bit-of-a-binary-value-to-a-specified-value/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
