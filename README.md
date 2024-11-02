@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [New Road](https://www.chens.life/posts/new-road/)
+- [写在2024年11月](https://www.chens.life/posts/written-in-2024-11/)
 - [xv6-labs-2022 Lab6 Multithreading 答案与解析](https://www.chens.life/posts/mit-xv6-lab6/)
 - [xv6-labs-2022 Lab5 Copy on-write 答案与解析](https://www.chens.life/posts/mit-xv6-lab5-cow/)
 - [vcpkg + cmake + vscode 配置教程](https://www.chens.life/posts/vcpkg-cmake-vscode/)
