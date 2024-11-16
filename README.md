@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [20241116](https://www.chens.life/posts/timeline/20241116/)
 - [Timeline 20241112](https://www.chens.life/posts/timeline-20241112/)
 - [TimeLine](https://www.chens.life/timeline/)
 - [写在2024](https://www.chens.life/posts/written-in-2024-11/)
 - [Timeline 20241101](https://www.chens.life/posts/timeline-20241101/)
-- [xv6-labs-2022 Lab6 Multithreading 答案与解析](https://www.chens.life/posts/mit-xv6-lab6/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
