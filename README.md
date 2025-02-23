@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.chens.life](https://www.chens.life)
 
-- 📫 How to reach me **chen2035@outlook.com**
+- 📫 How to reach me **boot0x7c00@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
