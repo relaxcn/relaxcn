@@ -1,4 +1,8 @@
-<h2 align="center"><span style="color: gray;">Just For Fun</span></h2>
+Could anyone give me a remote job?
 
+Skilled:
 
-![GitHub Snake](https://github.com/relaxcn/relaxcn/blob/output/github-contribution-grid-snake.svg)
+1. Code Static Analysis
+2. C/C++/Rust/Python
+
+Email: irelaxcn@outlook.com
