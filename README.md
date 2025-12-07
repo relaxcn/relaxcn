@@ -1,4 +1,4 @@
-Could anyone give me a remote job?
+I'm finding a remote job.
 
 Skilled:
 
