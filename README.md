@@ -1,8 +1,8 @@
-I'm finding a remote job.
+Learn to love.
 
-Skilled:
+Learn to be loved.
 
-1. Code Static Analysis
-2. C/C++/Rust/Python
+And coding sometimes when I’m bored …
 
-Email: irelaxcn@outlook.com
+
+![GitHub Snake](https://github.com/relaxcn/relaxcn/blob/output/github-contribution-grid-snake.svg)
